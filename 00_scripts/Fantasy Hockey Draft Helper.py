@@ -1,5 +1,5 @@
 ## CSCA20 - Final Project: Fantasy Hockey Live Draft Helper
-## Pandas Code learned/adapted primarily from Intro to Pandas for Data Analysis: https://app.datawars.io/skill-track/9bfbf033-d732-4273-8abb-431281dd1f25;
+## Pandas Code adapted primarily from Intro to Pandas for Data Analysis: https://app.datawars.io/skill-track/9bfbf033-d732-4273-8abb-431281dd1f25;
 ## freeCodecCamp.org Video Series: https://www.youtube.com/@freecodecamp
 # Additional sources cited within.
 ## Functions detailed by docstrings - access with help().
